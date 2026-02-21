@@ -1,4 +1,4 @@
-# 🧪 Borealis – Desafío Técnico: API de Categorías
+# 🧪 Desafío Técnico: API de Categorías
 
 Este proyecto se trata de una API RESTful construida con **NestJS**, conectada a una base de datos **PostgreSQL**, y contenerizada con **Docker** para facilitar su ejecución.
 
